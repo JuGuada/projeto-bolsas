@@ -29,3 +29,27 @@ body {
 a {
   text-decoration: none;
 }
+.logo{
+  height: 30px;
+}
+.carrinho{
+  height: 30px;
+}
+.cabecalho{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+  a{
+    color: black;
+  }
+  nav{
+    display: flex;
+    gap:23px
+  }
+  .casa{
+    color: rgb(6, 201, 6);
+  }
+ 
+}
+ 
